@@ -13,7 +13,7 @@
       "description": "Compras Mercado",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 500,
+      "price": 600,
       "createdAt": "2022-07-15T18:27:31.375Z"
     },
     {
@@ -23,6 +23,22 @@
       "category": "Contas do mês",
       "price": 750,
       "createdAt": "2022-08-20T18:00:31.375Z"
+    },
+    {
+      "description": "Pagamento de fatura cartão",
+      "price": 1500,
+      "category": "Pagamento",
+      "type": "outcome",
+      "createdAt": "2022-08-10T23:19:58.028Z",
+      "id": 4
+    },
+    {
+      "description": "Fast food",
+      "price": 150,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-08-10T23:36:01.669Z",
+      "id": 5
     }
   ]
 }
